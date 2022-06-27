@@ -1,6 +1,6 @@
-import "reveal.js/dist/reset.css";
+// import "reveal.js/dist/reset.css";
 import "reveal.js/dist/reveal.css";
-import "reveal.js/plugin/highlight/night-owl.css";
+// import "reveal.js/plugin/highlight/night-owl.css";
 import "./brand.css";
 import Reveal from "reveal.js";
 import Markdown from "reveal.js/plugin/markdown/markdown.esm.js";
